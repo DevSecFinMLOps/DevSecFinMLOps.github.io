@@ -27,9 +27,6 @@ footer:
     #   - '[关于本站](/)'
     #   - '[GitHub](/)'
   content: | # 支持 Markdown 格式
-    # [{author.name}](/) 
-    Build with [{theme.name} {theme.version}]({theme.tree}) .
+    Built with [{theme.name} {theme.version}]({theme.tree})
     [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-    <span class="jinrishici-sentence"></span>
-    <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
