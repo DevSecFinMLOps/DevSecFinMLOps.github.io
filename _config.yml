@@ -8,10 +8,7 @@ subtitle: 'DevSecFinMLOps + Docs'
 description: 'Developer Experience, Internal Developer Portal, Empirical Software Engineering and Platform Engineering'
 keywords: DevSecFinMLOps, IDP, Platform Engineering, DevSecOps, DevOps, FinOps, MLOPs
 author: Ethan Xia
-language:
-  - zh-CN
-  - en
-  - zh-TW
+language: en
 
 timezone: ''
 
